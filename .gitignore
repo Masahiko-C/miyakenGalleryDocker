@@ -1,0 +1,3 @@
+./ssl/certs/localhost.crt
+./ssl/private/localhost.key
+./miyaken-gallery/*
